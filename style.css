@@ -59,12 +59,12 @@ body {
   background:none;
 }
 .sidebar .logo {
-  font-size: 25px;
   font-weight: bold;
   text-align: center;
-  margin-bottom: 30px;
+/*   margin-bottom: 30px; */
   /* margin-top: 50px; */
-  padding: 50px;
+   padding: 40px 0 10px 0;
+
 }
 
 .sidebar .menu {
